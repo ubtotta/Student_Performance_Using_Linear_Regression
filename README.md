@@ -1,4 +1,4 @@
-# 🎓 Student Performance Index Prediction using Linear Regression
+# 🎓 Student Performance Prediction using Linear Regression
 
 Predicting students' academic **Performance Index** based on study habits, previous scores, sleep patterns, and extracurricular involvement using a Linear Regression model.
 
