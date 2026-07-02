@@ -73,10 +73,23 @@ The model generalizes well, with near-identical performance on train and test da
 ---
 
 ## 📂 Repository Structure
-├── Student_Performance.csv
+
+Student-Performance-Prediction/
+│
 ├── model_train.ipynb
-├── requirements.txt
-└── README.md
+├── Student_Performance.csv
+├── README.md
+└── images/
+
+---
+
+## 🔮 Future Improvements
+
+- Compare multiple regression algorithms.
+- Perform feature selection using statistical methods.
+- Tune model hyperparameters.
+- Deploy the trained model using Streamlit or Flask.
+- Build an interactive prediction dashboard.
 
 ---
 
